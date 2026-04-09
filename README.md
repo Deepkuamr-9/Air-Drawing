@@ -112,11 +112,3 @@ python main.py
 * 📱 Integration with mobile/web apps
 
 ---
-
-## 👨‍💻 Author
-
-**Deep Kumar**
-📍 Computer Science Student | AI & ML Enthusiast
-
----
-
